@@ -60,7 +60,7 @@ carrinhoDaLuiza.adicionarItem("achocolatado", 3.5)
 console.log(carrinhoDaLuiza.itens)
 console.log(carrinhoDaLuiza.valorTotalDaCompra)
 
-carrinhoDaLuiza.removerItem("bolacha de chocolate", 2)
+carrinhoDaLuiza.removerItem("bolacha de chocolate", 6)
 
 
 console.log(carrinhoDaLuiza.itens)

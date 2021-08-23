@@ -5,14 +5,14 @@
     - Variáveis
     - Números e Operadores 
     - Strings 
-        - Booleans 
- - Arrays 
-        - Condicionais 
+    - Booleans 
+    - Arrays 
+    - Condicionais 
     - Console.log() 
-        - Códigos de Repetição 
+    - Códigos de Repetição 
     - Funções 
  - Eventos 
-        - Scope 
- - Classes 
+    - Scope 
+    - Classes 
  - Formulários 
                             

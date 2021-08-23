@@ -14,5 +14,33 @@
  - Eventos 
     - Scope 
     - Classes 
- - Formulários 
+- Formulários 
                             
+ # Javascript Intermediário - síncrono
+
+Métodos auxiliares de Array 
+NPM 
+Yarn 
+Babel 
+Webpack 
+      Template String 
+      Operador Ternário 
+      Arrow Functions 
+      Templates Literais 
+      Spread 
+Métodos HTTP 
+      Funções como componentes 
+      Desestruturamento 
+Callbacks 
+Promises 
+Async Await 
+Match
+Specify 
+Consumo de API's: AJAX ±
+Consumo de API's: Método Open 
+Consumo de API's: Método Send 
+Consumo de API's: Fetch // testar postman
+Debugging 
+Progressive Web App (PWA) 
+Single Page Application (SPA) 
+Web components 

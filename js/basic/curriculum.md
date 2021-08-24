@@ -18,7 +18,7 @@
                             
  # Javascript Intermediário - síncrono
 
-Métodos auxiliares de Array 
+      Métodos auxiliares de Array 
 NPM 
 Yarn 
 Babel 
@@ -31,8 +31,8 @@ Webpack
 Métodos HTTP 
       Funções como componentes 
       Desestruturamento 
-Callbacks 
-Promises 
+      Callbacks 
+      Promises 
 Async Await 
 Match
 Specify 
